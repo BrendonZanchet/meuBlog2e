@@ -10,9 +10,6 @@
 .Container-Titulo-Principal{
     color: white;
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 100px;
     margin-top: 50vh;
 }
