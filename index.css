@@ -11,7 +11,7 @@
     color: white;
     text-align: center;
     font-size: 100px;
-    margin-top: 50vh;
+    margin-top: 40vh;
     position: relative;
     display: flex;
     justify-content: center;
@@ -20,5 +20,5 @@
 
 .texto{
     background-color: black;
-    position: absolute;
+    
 }
