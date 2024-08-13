@@ -5,16 +5,18 @@
 
 body{
     background-image: url(img/xadrez_255260497.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 h1{
-    color: white;
+    color: rgb(168, 168, 168);
 }
 
 h2{
-    color: white;
+    color: rgb(168, 168, 168);
 }
 
 .texto{
-    color: white;
+    color: rgb(168, 168, 168);
 }
