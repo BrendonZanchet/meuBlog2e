@@ -27,7 +27,7 @@ h1{
 h2{
     color: rgb(168, 168, 168);
     text-align: center;
-    padding: 50px;
+    margin: 50px;
     font-size: 35px;
 }
 
@@ -48,6 +48,8 @@ h2{
 
 p{
     font-size: 25px;
+    margin: 20px;
+
 }
 
 .assintura{
