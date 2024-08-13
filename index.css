@@ -28,3 +28,11 @@ h2{
     color: rgb(168, 168, 168);
     top: 100%;
 }
+
+.titulo{
+    position: absolute;
+}
+
+.container-texto{
+    position: relative;
+}
