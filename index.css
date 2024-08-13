@@ -30,9 +30,10 @@ h2{
 }
 
 .titulo{
-    position: relative;
+    position: ;
 }
 
 .container-texto{
-    position: relative;
+    position: absolute;
+    top: 100%;
 }
