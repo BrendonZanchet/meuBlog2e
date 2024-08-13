@@ -45,3 +45,7 @@ h2{
     position: absolute;
     top: 100%;
 }
+
+p{
+    font-size: 10px;
+}
