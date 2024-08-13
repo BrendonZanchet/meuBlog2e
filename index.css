@@ -51,6 +51,5 @@ p{
 }
 
 .assintura{
-    position: relative;
-    right: 0%;
+    text-align: right;
 }
