@@ -49,3 +49,8 @@ h2{
 p{
     font-size: 25px;
 }
+
+.assintura{
+    position: relative;
+    right: 0%;
+}
