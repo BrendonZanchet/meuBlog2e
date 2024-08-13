@@ -1,5 +1,5 @@
 *{
-    padding: 0;
+    padding: 30px;
     margin: 0;
     scrollbar-width: none;
 }
@@ -28,6 +28,7 @@ h2{
     color: rgb(168, 168, 168);
     text-align: center;
     padding: 50px;
+    font-size: 25px;
 }
 
 .texto{
